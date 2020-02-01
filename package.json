@@ -1,0 +1,28 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "fs": "0.0.1-security",
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "eslint '**/*.js'",
+    "test": "jest --coverage --verbose",
+    "start": "node fs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayman-401-advanced-javascript/lab03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayman-401-advanced-javascript/lab03/issues"
+  },
+  "homepage": "https://github.com/ayman-401-advanced-javascript/lab03#readme"
+}
